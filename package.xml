@@ -11,14 +11,13 @@
   <buildtool_depend>cmake</buildtool_depend>
 
   <build_depend>gz-cmake</build_depend>
+  <build_export_depend>gz-cmake</build_export_depend>
 
   <depend>gz-math</depend>
   <depend>gz-msgs</depend>
   <depend>gz-tools2</depend>
   <depend>gz-utils</depend>
   <depend>libsqlite3-dev</depend>
-  <depend>libzenohc-dev</depend>
-  <depend>libzenohcpp-dev</depend>
   <depend>libzmq3-dev</depend>
   <depend>pkg-config</depend>
   <depend>protobuf-dev</depend>
